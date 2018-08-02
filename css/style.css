@@ -10,21 +10,12 @@ html,body {
     background-image: url(../assets/background.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-    height: 72px;
     margin-top: 8px;
-}
-
-
-#logo {
-    height: 51px;
-    position: relative;
-    left: 227px;
-    margin-top: 11px;
+    height:3em;
 }
 
 #searchBar {
     position: relative;
-    left: 82px;
     margin-top: 19px;
 }
 
@@ -35,7 +26,6 @@ html,body {
     padding: 10px 11px;
     width: 20em;
     position: relative;
-    right: 70px;
 }
 
 #searchButton {
@@ -45,13 +35,12 @@ html,body {
     padding: 10px 11px;
     width: 8em;
     position: relative;
-    right: 67px;
 }
 
 #container {
     background-color: gray;
-    height: 22em;
-    width: 356px;
+    height: 14em;
+    width: 23em;
     margin-left: 11px;
 }
 
@@ -59,9 +48,8 @@ html,body {
     background-image: url(../assets/bottom.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-    height: 5em;
+    height: 3em;
     margin-top: 8px;
     right: 10px;
     position: relative;
-    right: 9px;
 }
