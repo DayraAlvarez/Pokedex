@@ -45,6 +45,7 @@ function loadPokemons (){
       })
       .done(function(resp){
        console.log(resp);
+       //propiedades e imprimir en dom 
       })
       var pokemonPhoto 
     });
