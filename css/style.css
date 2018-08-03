@@ -1,22 +1,24 @@
-html,body {
-    background-color: #EB090A;
-    height: 100%;
+/*html,body {
+    background-image: url(../assets/background1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 8px;
     width: 100%;
     margin: 0px;
     padding: 0px;
 }
 
-#pokedexTop {
-    background-image: url(../assets/background.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
-    margin-top: 8px;
-    height:3em;
+#logo {
+    position: relative;
+    left: 10px;
+    height: 20px;
 }
 
 #searchBar {
     position: relative;
-    margin-top: 19px;
+    margin-top: 175px;
+    left: 46px;
+
 }
 
 #searchPokemon {
@@ -44,12 +46,4 @@ html,body {
     margin-left: 11px;
 }
 
-#pokedexBottom {
-    background-image: url(../assets/bottom.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
-    height: 3em;
-    margin-top: 8px;
-    right: 10px;
-    position: relative;
-}
+*/
